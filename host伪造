@@ -1,0 +1,13 @@
+本地登录接口cookie没有带给接口的情况
+
+Mac :  sudo vim /etc/hosts
+
+i输入
+
+本地域名修改成.pingan.com.cn
+
+esc退出，按:wq!强制保存退出。
+
+windows:
+
+C:/system32/drivers/etc/hosts  拷贝出来修改后替换覆盖文件
