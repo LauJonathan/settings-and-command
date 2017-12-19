@@ -1,0 +1,5 @@
+open -a "Google Chrome" --args --disable-web-security –user-dir
+打开跨域浏览器
+
+56以上
+open -a /Applications/Google\ Chrome.app --args --disable-web-security --user-data-dir
